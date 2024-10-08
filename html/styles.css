@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4a90e2;
+}
+
+section h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+footer {
+    background-color: #222;
+    color: #ddd;
+}
+
+.card {
+    margin-bottom: 20px;
+}
